@@ -3,7 +3,7 @@
 ### Statistics
 [![SUHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=nord&hide_border=true&count_private=true)](https://github.com/agnesAqr/github-readme-stats)&emsp;[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579)](https://solved.ac/rkdtngus3579/)
 
-<img src="https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="SUHYUN's GitHub stats" style="height: 100px; margin-right: 20px; vertical-align: middle;">&emsp;<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579" alt="Solved.ac Profile" style="height: 100px; vertical-align: middle;">
+<img src="https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=nord&hide_border=true&count_private=true" alt="SUHYUN's GitHub stats" style="height: 300px; margin-right: 20px; vertical-align: middle;">&emsp;<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579" alt="Solved.ac Profile" style="height: 300px; vertical-align: middle;">
 
 <br>
 
