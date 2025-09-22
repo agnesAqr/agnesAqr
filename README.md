@@ -1,1 +1,1 @@
-![header](https://capsule-render.vercel.app/api?type=blur&color=timeGradient&text=Welcome%20to%20Suhyun's%20GitHub%20👋%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=300&fontColor=d6ace6)
+![header](https://capsule-render.vercel.app/api?type=transparent&color=timeGradient&text=Welcome%20to%20Suhyun's%20GitHub%20👋%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=300&fontColor=d6ace6)
