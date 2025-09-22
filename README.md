@@ -4,11 +4,13 @@
 <img src="https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=jolly&hide_border=true&count_private=true" alt="SUHYUN's GitHub stats" style="height: 200px; margin-right: 20px; vertical-align: middle;">&emsp;<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579" alt="Solved.ac Profile" style="height: 200px; vertical-align: middle;">
 <br>
 
+## 💪 Skills
+
+<br>
+
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 <br><br>
-
-## 💪 Skills
 
 <a href="https://github.com/agnesAqr/gitanimals">
   <img src="https://render.gitanimals.org/farms/agnesAqr"/>
