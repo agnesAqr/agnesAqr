@@ -2,7 +2,7 @@
 
 <br>
 
-[![SUHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=jolly&hide_border=true&count_private=true)](https://github.com/agnesAqr/github-readme-stats)
+[![SUHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=jolly&hide_border=true&count_private=true)](https://github.com/agnesAqr/github-readme-stats)![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=agnesAqr&layout=compact)
 
 <br>
 
