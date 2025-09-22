@@ -2,5 +2,5 @@
 [![SUHYUN's GitHub stats](https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=jolly&hide_border=true&count_private=true)](https://github.com/agnesAqr/github-readme-stats)
 ![](./profile-3d-contrib/profile-gitblock.svg)
 <a href="https://github.com/agnesAqr/gitanimals">
-  <img src="https://render.gitanimals.org/farms/Suhyun"width="1000" height="120"/>
+  <img src="https://render.gitanimals.org/farms/Suhyun" width="1000" height="120"/>
 </a>
