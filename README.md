@@ -5,8 +5,18 @@
 <br>
 
 ## 💪 Skills
+### Platforms & Languages
+
+### Tools
 
 <br>
+
+## 📞 Contacts
+<a href="mailto:rkdtngus3579@gmail.com">
+        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
+</a><br>
+
+## 🌳Contributions
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
@@ -17,7 +27,4 @@
 </a><br><br>
 
 
-## 📞 Contact
-<a href="mailto:rkdtngus3579@gmail.com">
-        <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white"> 
-</a><br>
+
