@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:87CEFA,100:FF66CC&text=Welcome%20to%20Suhyun's%20GitHub%20😘&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=50&height=250&fontColor=FFFFFF)
 
 ### Statistics
-<img src="https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=default&hide_border=true&count_private=true" alt="SUHYUN's GitHub stats" style="height: 200px; margin-right: 20px; vertical-align: middle;">&emsp;<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579" alt="Solved.ac Profile" style="height: 200px; vertical-align: middle;">
+<img src="https://github-readme-stats.vercel.app/api?username=agnesAqr&include_all_commits=true&theme=jolly&hide_border=true&count_private=true" alt="SUHYUN's GitHub stats" style="height: 200px; margin-right: 20px; vertical-align: middle;">&emsp;<img src="http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579" alt="Solved.ac Profile" style="height: 200px; vertical-align: middle;">
 
 <br>
 
