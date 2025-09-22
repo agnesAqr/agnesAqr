@@ -4,8 +4,9 @@
 ### Statistics
 <div>
   <img alt="stats" align="left" src="https://github-readme-stats.vercel.app/api?username=agnesAqr&show_icons=true&theme=holi" width = "49%" height="130%" />
-  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579)](https://solved.ac/rkdtngus3579/)
-</div><br>
+</div>
+[![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=rkdtngus3579)](https://solved.ac/rkdtngus3579/)
+<br>
 
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
