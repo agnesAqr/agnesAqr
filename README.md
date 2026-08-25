@@ -40,9 +40,5 @@
 
 <br><br>
 
-<a href="https://github.com/agnesAqr/gitanimals">
-  <img src="https://render.gitanimals.org/farms/agnesAqr"/>
-</a><br><br>
-
 
 
